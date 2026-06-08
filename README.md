@@ -1,5 +1,3 @@
-<h1 align="center">Repo in Progress 💤</h1>
-
 # Machine Learning From Scratch & Scikit-Learn
 
 A collection of Machine Learning algorithms implemented both **from scratch using NumPy** and **using Scikit-Learn** to understand the mathematical foundations as well as industry-standard implementations.
@@ -22,7 +20,7 @@ Each algorithm is implemented in two ways:
 
 ---
 
-## 📚 Algorithms Covered
+## 📚 Algorithms Covered (Im Progress)
 
 ### Regression
 
