@@ -114,13 +114,13 @@ Machine-Learning/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/machine-learning-from-scratch.git
+git clone https://github.com/PiyushAwasthi-2709/Machine-Learning-Labs.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd machine-learning-from-scratch
+cd machine-learning
 ```
 
 Install dependencies:
