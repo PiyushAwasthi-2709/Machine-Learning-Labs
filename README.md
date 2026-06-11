@@ -55,57 +55,6 @@ Each algorithm is implemented in two ways:
 - Feed Forward Neural Networks
 - Deep Learning Fundamentals
 
----
-
-## 🧠 Concepts Implemented From Scratch
-
-This repository focuses heavily on understanding the mathematics behind Machine Learning.
-
-Implemented manually:
-
-- Gradient Descent
-- Batch Gradient Descent
-- Cost Functions
-- Sigmoid Function
-- Feature Scaling
-- Normalization
-- Vectorization
-- Forward Propagation
-- Backpropagation
-- Regularization
-- Model Evaluation Metrics
-
----
-
-## 📂 Repository Structure
-
-```text
-Machine-Learning/
-
-├── datasets/
-│   ├── housing.csv
-│   ├── admissions.csv
-│   └── ...
-│
-├── from_scratch/
-│   ├── linear_regression/
-│   ├── logistic_regression/
-│   ├── kmeans/
-│   └── ...
-│
-├── scikit_learn/
-│   ├── linear_regression/
-│   ├── logistic_regression/
-│   ├── decision_tree/
-│   └── ...
-│
-├── images/
-│
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## ⚙️ Installation
 
@@ -137,12 +86,12 @@ pip install -r requirements.txt
 - Matplotlib
 - Seaborn
 - Scikit-Learn
-- Jupyter Notebook
+- Pytorch
 
 Install manually:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn notebook
+pip install numpy pandas matplotlib seaborn scikit-learn torch torchvision torchaudio notebook
 ```
 
 ---
@@ -159,31 +108,6 @@ By working through this repository, you will learn:
 - Model evaluation and performance analysis.
 - How industry-standard libraries implement the same algorithms.
 
----
-
-## 🔍 Example Workflow
-
-### From Scratch
-
-```python
-model = LogisticRegression()
-model.fit(X_train, y_train)
-
-predictions = model.predict(X_test)
-```
-
-### Scikit-Learn
-
-```python
-from sklearn.linear_model import LogisticRegression
-
-model = LogisticRegression()
-model.fit(X_train, y_train)
-
-predictions = model.predict(X_test)
-```
-
----
 
 ## 📈 Future Additions
 
@@ -212,6 +136,6 @@ This repository is inspired by:
 - Andrew Ng's Machine Learning Specialization
 - Hands-On Machine Learning
 - Scikit-Learn Documentation
-- Deep Learning Specialization
+- 100x Deep Learning
 
 If you find this repository useful, consider giving it a ⭐ on GitHub.
