@@ -61,7 +61,7 @@ Each algorithm is implemented in two ways:
 Clone the repository:
 
 ```bash
-git clone https://github.com/PiyushAwasthi-2709/Machine-Learning-Labs.git
+https://github.com/GxrenZzz/Machine-Learning-Labs.git
 ```
 
 Move into the project directory:
